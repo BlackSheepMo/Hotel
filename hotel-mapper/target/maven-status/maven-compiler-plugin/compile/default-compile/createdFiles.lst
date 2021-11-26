@@ -1,0 +1,14 @@
+com\ln\mapper\TFloorMapper.class
+com\ln\mapper\SysPermissonMapper.class
+com\ln\mapper\SysRolePermissonMapper.class
+com\ln\mapper\SysUserMapper.class
+com\ln\mapper\SysUserRoleMapper.class
+com\ln\mapper\TCheckoutMapper.class
+com\ln\mapper\TCheckinMapper.class
+com\ln\mapper\SysRoleMapper.class
+com\ln\mapper\TRoomMapper.class
+CodeGenerator.class
+com\ln\mapper\TAccountMapper.class
+com\ln\mapper\SysDeptMapper.class
+com\ln\mapper\TRoomTypeMapper.class
+com\ln\mapper\TOrdersMapper.class
