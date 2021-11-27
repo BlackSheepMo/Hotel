@@ -17,17 +17,17 @@ import javax.annotation.Resource;
  * @author zxg
  * @since 2021-11-26
  */
-@RestController
-@RequestMapping("/sysDept")
+//@RestController
+//@RequestMapping("/sysDept")
 public class SysDeptController {
-    @Resource
-    private SysDeptMapper sysDeptMapper;
-
-    @RequestMapping("/savehello")
-    public SysDept savehello(){
-        SysDept sysDept = sysDeptMapper.selectById(1);
-        return sysDept;
-    }
+    //@Resource
+    //private SysDeptMapper sysDeptMapper;
+    //
+    //@RequestMapping("/savehello")
+    //public SysDept savehello(){
+    //    SysDept sysDept = sysDeptMapper.selectById(1);
+    //    return sysDept;
+    //}
 
 }
 
